@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned how to read dataframes from data-orientated file types like .json, .csv, and .xlsx files and the different pandas methods to open each. I also learned more about Streamlit UI widgets like the selectbox, which is a dropdown menu that highlights a single selection, and multiselect, which can return a list of selections; these widgets can be displayed in Streamlit columns. Additionally, there are many ways to play around with the indices of dataframes.
